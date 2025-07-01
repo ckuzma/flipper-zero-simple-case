@@ -3,7 +3,7 @@
 _A simple easy-to-print hard case that makes use of the foam packaging included with the Flipper Zero._
 
 ## Render
-![Render](media/render.png)!
+![Render](media/render.png)
 
 
 ## Printed
