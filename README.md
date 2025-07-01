@@ -7,7 +7,7 @@ _A simple easy-to-print hard case that makes use of the foam packaging included 
 
 
 ## Printed
-[Reality](media/printed.jpg)
+![Reality](media/printed.jpg)
 
 ## Description
 
